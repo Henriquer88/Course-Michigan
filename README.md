@@ -1,2 +1,2 @@
 # Course-Michigan
-University of Michigan
+ ## University of Michigan
